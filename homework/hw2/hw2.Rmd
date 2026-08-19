@@ -1,0 +1,213 @@
+---
+title: "MAT 217: Homework 2"
+author: "Author Name"
+date: "`r Sys.Date()`"
+output: openintro::lab_report
+---
+
+```{r load-packages, message=FALSE}
+library(hanoverbase)
+```
+
+# INTRODUCTION
+
+In Homework 1, we practiced opening a dataset, identifying cases and variables, and making a simple plot. In this homework, we will focus on summarizing and visualizing one quantitative variable.
+
+We will use the dataset `in09_2024_county_summary_with_turnout_and_demographics.csv`, which you can find in the `data` folder. Each row represents one county that appears in the 2024 Indiana District 9 U.S. House election data. The dataset is renamed `county2024` for this homework.
+
+Our main variable of interest is `county_2024_median_household_income`, which records the median household income for each county in dollars.
+
+```{r import dataset, warning = FALSE}
+county2024 <- read_csv("../../../data/in09_2024_county_summary_with_turnout_and_demographics.csv")
+```
+
+# Question 1
+
+## Part 1a
+
+How many cases are in this dataset? How many variables? Again, you may choose to count manually or use `dim()` function in the code block below.
+
+> ANSWER:
+
+```{r}
+
+```
+
+## Part 1b
+
+The variable `county_2024_median_household_income` is quantitative. Is it discrete or continuous? Briefly explain your answer.
+
+> ANSWER:
+
+## Part 1c
+
+Use the code block below to display only the county name and the median household income variable.
+
+```{r}
+county2024 |>
+  select(county_name, county_2024_median_household_income)
+```
+
+Which county has the lowest median household income? Which county has the highest median household income?
+
+> ANSWER:
+
+# Question 2
+
+## Part 2a
+
+Use the `summary()` function to find the minimum, first quartile, median, mean, third quartile, and maximum of `county_2024_median_household_income`.
+
+```{r}
+summary(county2024$county_2024_median_household_income)
+```
+
+Record the following values:
+
+- Minimum:
+- Q1:
+- Median:
+- Mean:
+- Q3:
+- Maximum:
+
+> ANSWER:
+
+## Part 2b
+
+The mean and median are both measures of center. Which one is larger for this variable? Are they close together or far apart?
+
+> ANSWER:
+
+## Part 2c
+
+Based on the mean and median, what does this suggest about the shape of the distribution? Do not overstate your conclusion; this is just an initial clue.
+
+> ANSWER:
+
+# Question 3
+
+## Part 3a
+
+Make a histogram of county median household income.
+
+```{r}
+hist(county2024$county_2024_median_household_income,
+     main = "Median household income by county",
+     xlab = "Median household income",
+     ylab = "Number of counties")
+```
+
+Describe the shape of the histogram. You may want to comment on where most counties are located and whether the distribution looks roughly symmetric, skewed, or unusual in some other way.
+
+> ANSWER:
+
+## Part 3b
+
+Try changing the number of breaks in the histogram. Run the code below, then compare this histogram with the one from Part 3a.
+
+```{r}
+hist(county2024$county_2024_median_household_income,
+     breaks = 8,
+     main = "Median household income by county",
+     xlab = "Median household income",
+     ylab = "Number of counties")
+```
+
+What changed when you used more breaks? Did your overall interpretation of the distribution change?
+
+> ANSWER:
+
+# Question 4
+
+## Part 4a
+
+Make a boxplot of county median household income.
+
+```{r}
+boxplot(county2024$county_2024_median_household_income,
+        main = "Median household income by county",
+        ylab = "Median household income")
+```
+
+Use the boxplot to describe the center, spread, and any possible unusual values.
+
+> ANSWER:
+
+## Part 4b
+
+Use the five-number summary from Question 2 to calculate the interquartile range.
+
+<center>
+
+IQR = Q3 - Q1
+
+</center>
+
+Show your work.
+
+> ANSWER:
+
+## Part 4c
+
+Use the 1.5 x IQR rule to check for potential outliers.
+
+<center>
+
+Lower fence = Q1 - 1.5 x IQR
+
+Upper fence = Q3 + 1.5 x IQR
+
+</center>
+
+Show your work. According to this rule, are there any potential outliers?
+
+> ANSWER:
+
+# Question 5
+
+## Part 5a
+
+Sort the counties from lowest to highest median household income.
+
+```{r}
+county2024 |>
+  arrange(county_2024_median_household_income) |>
+  select(county_name, county_2024_median_household_income)
+```
+
+Pick one county near the low end, one county near the middle, and one county near the high end. Record their names and median household incomes.
+
+> ANSWER:
+
+## Part 5b
+
+Based only on the summary and graphs you made in this homework, what can you say about the distribution of median household income across these counties?
+
+In future homework, we will compare variables such as income, turnout, and vote share. For now, focus only on describing the income variable itself.
+
+> ANSWER:
+
+# OPTIONAL EXPLORATION
+
+Choose a different quantitative variable from the dataset, such as `county_2024_poverty_rate`, `county_turnout_rate`, or `total_votes`.
+
+Use the code blocks below to make a numerical summary and a graph for your chosen variable.
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+Compare this new variable with `county_2024_median_household_income`. Which variable has more spread? Which one is easier to describe from its graph?
+
+> ANSWER:
+
+# Question 6
+
+1. Knit the document and submit the HTML file on Canvas.
+
+2. Remember to record your individual reflection from this homework in the observation-log.

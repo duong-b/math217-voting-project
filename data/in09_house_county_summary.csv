@@ -1,0 +1,59 @@
+year,state,district,county_name,county_fips,dem_candidate,rep_candidate,lib_candidate,precincts,dem_votes,rep_votes,lib_votes,total_votes,dem_share,rep_share,lib_share,two_party_dem_share,rep_margin,rep_margin_share,winner_party
+2016,Indiana,9,Brown,18013,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,12,3036,4451,448,7935,0.382609,0.560933,0.056459,0.405503,1415,0.188994,Republican
+2016,Indiana,9,Clark,18019,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,72,21599,25802,2963,50364,0.428858,0.51231,0.058832,0.455665,4203,0.088669,Republican
+2016,Indiana,9,Crawford,18025,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,13,1623,1948,239,3810,0.425984,0.511286,0.06273,0.454495,325,0.091011,Republican
+2016,Indiana,9,Floyd,18043,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,60,15997,19406,1736,37139,0.430733,0.522523,0.046743,0.451854,3409,0.096291,Republican
+2016,Indiana,9,Harrison,18061,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,39,6706,10809,895,18410,0.364259,0.587127,0.048615,0.382872,4103,0.234256,Republican
+2016,Indiana,9,Jackson,18071,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,30,5596,10804,976,17376,0.322053,0.621777,0.056169,0.34122,5208,0.317561,Republican
+2016,Indiana,9,Johnson,18081,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,134,20068,42207,3900,66175,0.303257,0.637809,0.058935,0.322248,22139,0.355504,Republican
+2016,Indiana,9,Lawrence,18093,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,40,5720,11946,988,18654,0.306637,0.640399,0.052965,0.323786,6226,0.352428,Republican
+2016,Indiana,9,Monroe,18105,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,83,36115,19371,2732,58218,0.620341,0.332732,0.046927,0.650885,-16744,-0.30177,Democratic
+2016,Indiana,9,Morgan,18109,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,36,5140,14230,1253,20623,0.249236,0.690006,0.060757,0.265359,9090,0.469282,Republican
+2016,Indiana,9,Orange,18117,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,22,3007,4733,400,8140,0.36941,0.58145,0.04914,0.388501,1726,0.222997,Republican
+2016,Indiana,9,Scott,18143,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,7,1778,2134,194,4106,0.433025,0.519727,0.047248,0.454499,356,0.091002,Republican
+2016,Indiana,9,Washington,18175,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,20,3991,6577,657,11225,0.355546,0.585924,0.05853,0.37765,2586,0.244701,Republican
+2018,Indiana,9,Brown,18013,Liz Watson,Trey Hollingsworth,,12,3002,4169,0,7171,0.418631,0.581369,0.0,0.418631,1167,0.162739,Republican
+2018,Indiana,9,Clark,18019,Liz Watson,Trey Hollingsworth,,72,19208,23722,0,42930,0.447426,0.552574,0.0,0.447426,4514,0.105148,Republican
+2018,Indiana,9,Crawford,18025,Liz Watson,Trey Hollingsworth,,13,1395,1972,0,3367,0.414315,0.585685,0.0,0.414315,577,0.171369,Republican
+2018,Indiana,9,Floyd,18043,Liz Watson,Trey Hollingsworth,,60,14508,17311,0,31819,0.455954,0.544046,0.0,0.455954,2803,0.088092,Republican
+2018,Indiana,9,Harrison,18061,Liz Watson,Trey Hollingsworth,,40,5415,10121,0,15536,0.348545,0.651455,0.0,0.348545,4706,0.302909,Republican
+2018,Indiana,9,Jackson,18071,Liz Watson,Trey Hollingsworth,,30,4481,9935,0,14416,0.310835,0.689165,0.0,0.310835,5454,0.37833,Republican
+2018,Indiana,9,Johnson,18081,Liz Watson,Trey Hollingsworth,,134,18039,33664,0,51703,0.348897,0.651103,0.0,0.348897,15625,0.302207,Republican
+2018,Indiana,9,Lawrence,18093,Liz Watson,Trey Hollingsworth,,40,4907,10549,0,15456,0.317482,0.682518,0.0,0.317482,5642,0.365036,Republican
+2018,Indiana,9,Monroe,18105,Liz Watson,Trey Hollingsworth,,83,35579,16209,0,51788,0.687012,0.312988,0.0,0.687012,-19370,-0.374025,Democratic
+2018,Indiana,9,Morgan,18109,Liz Watson,Trey Hollingsworth,,36,4595,12353,0,16948,0.271123,0.728877,0.0,0.271123,7758,0.457753,Republican
+2018,Indiana,9,Orange,18117,Liz Watson,Trey Hollingsworth,,22,2277,4495,0,6772,0.336237,0.663763,0.0,0.336237,2218,0.327525,Republican
+2018,Indiana,9,Scott,18143,Liz Watson,Trey Hollingsworth,,8,1667,2379,0,4046,0.412012,0.587988,0.0,0.412012,712,0.175976,Republican
+2020,Indiana,9,Brown,18013,Andy Ruff,Trey Hollingsworth,Tonya L. Millis,13,2831,5643,391,8865,0.319346,0.636548,0.044106,0.334081,2812,0.331839,Republican
+2020,Indiana,9,Clark,18019,Andy Ruff,Trey Hollingsworth,Tonya L. Millis,73,20246,34130,2441,56817,0.356337,0.6007,0.042962,0.372333,13884,0.255333,Republican
+2020,Indiana,9,Crawford,18025,Andy Ruff,Trey Hollingsworth,Tonya L. Millis,14,1138,2685,157,3980,0.28593,0.674623,0.039447,0.297672,1547,0.404656,Republican
+2020,Indiana,9,Harrison,18061,Andy Ruff,Trey Hollingsworth,Tonya L. Millis,39,4879,14532,615,20026,0.243633,0.725657,0.03071,0.251352,9653,0.497295,Republican
+2020,Indiana,9,Johnson,18081,Andy Ruff,Trey Hollingsworth,Tonya L. Millis,135,21466,51843,3171,76480,0.280675,0.677863,0.041462,0.292815,30377,0.414369,Republican
+2020,Indiana,9,Monroe,18105,Andy Ruff,Trey Hollingsworth,Tonya L. Millis,82,37455,22484,2442,62381,0.600423,0.36043,0.039147,0.624885,-14971,-0.249771,Democratic
+2022,Indiana,9,Bartholomew,18005,Matthew Fyfe,Erin Houchin,Tonya L. Millis,6,506,1934,84,2524,0.200475,0.766244,0.033281,0.207377,1428,0.585246,Republican
+2022,Indiana,9,Clark,18019,Matthew Fyfe,Erin Houchin,Tonya L. Millis,74,13073,22026,1194,36293,0.360207,0.606894,0.032899,0.372461,8953,0.255078,Republican
+2022,Indiana,9,Dearborn,18029,Matthew Fyfe,Erin Houchin,Tonya L. Millis,45,2641,11368,294,14303,0.184647,0.794798,0.020555,0.188522,8727,0.622957,Republican
+2022,Indiana,9,Decatur,18031,Matthew Fyfe,Erin Houchin,Tonya L. Millis,22,1477,6211,316,8004,0.184533,0.775987,0.03948,0.192118,4734,0.615765,Republican
+2022,Indiana,9,Franklin,18047,Matthew Fyfe,Erin Houchin,Tonya L. Millis,23,1247,5967,141,7355,0.169545,0.811285,0.019171,0.172858,4720,0.654283,Republican
+2022,Indiana,9,Harrison,18061,Matthew Fyfe,Erin Houchin,Tonya L. Millis,45,3360,10231,347,13938,0.241068,0.734036,0.024896,0.247222,6871,0.505555,Republican
+2022,Indiana,9,Jefferson,18077,Matthew Fyfe,Erin Houchin,Tonya L. Millis,26,3152,6388,227,9767,0.322719,0.654039,0.023242,0.330398,3236,0.339203,Republican
+2022,Indiana,9,Jennings,18079,Matthew Fyfe,Erin Houchin,Tonya L. Millis,25,1613,5951,349,7913,0.203842,0.752054,0.044105,0.213247,4338,0.573506,Republican
+2022,Indiana,9,Scott,18143,Matthew Fyfe,Erin Houchin,Tonya L. Millis,16,0,0,0,0,,,,,0,,Tie
+2024,Indiana,9,Bartholomew,18005,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",6,827,3099,123,4049,0.204248,0.765374,0.030378,0.210647,2272,0.578706,Republican
+2024,Indiana,9,Brown,18013,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",11,2701,5506,344,8551,0.315869,0.643901,0.040229,0.329109,2805,0.341781,Republican
+2024,Indiana,9,Clark,18019,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",74,21855,33129,1899,56883,0.38421,0.582406,0.033384,0.397479,11274,0.205041,Republican
+2024,Indiana,9,Dearborn,18029,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",45,4884,20813,680,26377,0.185161,0.789059,0.02578,0.190061,15929,0.619878,Republican
+2024,Indiana,9,Decatur,18031,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",22,2069,9201,393,11663,0.177399,0.788905,0.033696,0.183585,7132,0.632831,Republican
+2024,Indiana,9,Floyd,18043,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",60,15941,23841,976,40758,0.391113,0.58494,0.023946,0.400709,7900,0.198582,Republican
+2024,Indiana,9,Franklin,18047,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",23,1843,9415,234,11492,0.160372,0.819266,0.020362,0.163706,7572,0.672588,Republican
+2024,Indiana,9,Harrison,18061,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",45,4894,14884,441,20219,0.24205,0.736139,0.021811,0.247447,9990,0.505107,Republican
+2024,Indiana,9,Jackson,18071,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",30,3534,14459,437,18430,0.191753,0.784536,0.023711,0.19641,10925,0.607181,Republican
+2024,Indiana,9,Jefferson,18077,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",26,4209,9327,310,13846,0.303987,0.673624,0.022389,0.310949,5118,0.378103,Republican
+2024,Indiana,9,Jennings,18079,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",25,2260,8847,412,11519,0.196198,0.768035,0.035767,0.203475,6587,0.593049,Republican
+2024,Indiana,9,Lawrence,18093,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",40,4372,15417,625,20414,0.214167,0.755217,0.030616,0.220931,11045,0.558138,Republican
+2024,Indiana,9,Monroe,18105,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",26,9811,4994,418,15223,0.644485,0.328056,0.027458,0.662682,-4817,-0.325363,Democratic
+2024,Indiana,9,Ohio,18115,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",11,626,2303,71,3000,0.208667,0.767667,0.023667,0.213725,1677,0.57255,Republican
+2024,Indiana,9,Ripley,18137,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",37,2501,11439,297,14237,0.175669,0.80347,0.020861,0.179412,8938,0.641176,Republican
+2024,Indiana,9,Scott,18143,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",16,2300,6816,220,9336,0.246358,0.730077,0.023565,0.252304,4516,0.495393,Republican
+2024,Indiana,9,Switzerland,18155,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",12,875,3183,85,4143,0.2112,0.768284,0.020517,0.215623,2308,0.568753,Republican
+2024,Indiana,9,Washington,18175,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",23,2535,9565,430,12530,0.202314,0.763368,0.034318,0.209504,7030,0.580992,Republican

@@ -1,0 +1,6 @@
+year,state,district,dem_candidate,rep_candidate,lib_candidate,precincts,dem_votes,rep_votes,lib_votes,total_votes,dem_share,rep_share,lib_share,two_party_dem_share,rep_margin,rep_margin_share,winner_party
+2016,Indiana,9,Shelli Yoder,Trey Hollingsworth,Russell Brooksbank,568,130376,174418,17381,322175,0.404674,0.541377,0.053949,0.427751,44042,0.144498,Republican
+2018,Indiana,9,Liz Watson,Trey Hollingsworth,,550,115073,146879,0,261952,0.43929,0.56071,0.0,0.43929,31806,0.121419,Republican
+2020,Indiana,9,Andy Ruff,Trey Hollingsworth,Tonya L. Millis,356,88015,131317,9217,228549,0.385103,0.574568,0.040328,0.401287,43302,0.197427,Republican
+2022,Indiana,9,Matthew Fyfe,Erin Houchin,Tonya L. Millis,282,27069,70076,2952,100097,0.270428,0.700081,0.029491,0.278645,43007,0.442709,Republican
+2024,Indiana,9,"Timothy ""Tim"" Peck",Erin Houchin,"Russell ""Russ"" Brooksbank",532,88037,206238,8395,302670,0.290868,0.681396,0.027736,0.299166,118201,0.401669,Republican
