@@ -1,0 +1,240 @@
+---
+title: "Observation Log: Indiana District 9 Voting Project"
+author: "Your Name"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+# Purpose
+
+Use this log throughout the semester to collect your observations from each homework assignment. Your final individual reflection will be much easier to write if you update this file every week.
+
+For each homework, write in complete sentences. You do not need long paragraphs, but your notes should be specific enough that you can understand them later.
+
+
+# Homework 1
+
+## Main Question
+
+What did this homework ask you to investigate?
+
+## Important Result
+
+Write down one numerical result, table, or graph from this homework that seems important to you.
+
+## Observation
+
+What pattern did you notice?
+
+## Interpretation
+
+What do you think this pattern means?
+
+## Limitation Or Caution
+
+What should someone be careful about when interpreting this result?
+
+## Question For Later
+
+What question do you still have?
+
+# Homework 2
+
+## Main Question
+
+
+## Important Result
+
+
+## Observation
+
+
+## Interpretation
+
+
+## Limitation Or Caution
+
+
+## Question For Later
+
+
+# Homework 3
+
+## Main Question
+
+
+## Important Result
+
+
+## Observation
+
+
+## Interpretation
+
+
+## Limitation Or Caution
+
+
+## Question For Later
+
+
+# Homework 4
+
+## Main Question
+
+
+## Important Result
+
+
+## Observation
+
+
+## Interpretation
+
+
+## Limitation Or Caution
+
+
+## Question For Later
+
+
+# Homework 5
+
+## Main Question
+
+
+## Important Result
+
+
+## Observation
+
+
+## Interpretation
+
+
+## Limitation Or Caution
+
+
+## Question For Later
+
+
+# Homework 6
+
+## Main Question
+
+
+## Important Result
+
+
+## Observation
+
+
+## Interpretation
+
+
+## Limitation Or Caution
+
+
+## Question For Later
+
+
+# Homework 7
+
+## Main Question
+
+
+## Important Result
+
+
+## Observation
+
+
+## Interpretation
+
+
+## Limitation Or Caution
+
+
+## Question For Later
+
+
+# Homework 8
+
+## Main Question
+
+
+## Important Result
+
+
+## Observation
+
+
+## Interpretation
+
+
+## Limitation Or Caution
+
+
+## Question For Later
+
+
+# Homework 9
+
+## Main Question
+
+
+## Important Result
+
+
+## Observation
+
+
+## Interpretation
+
+
+## Limitation Or Caution
+
+
+## Question For Later
+
+
+# Final Reflection Planning
+
+## Possible Main Claim
+
+Write one sentence that could become the main point of your final reflection.
+
+## Evidence I Could Use
+
+List at least three pieces of evidence from different homework assignments.
+
+1. 
+2. 
+3. 
+
+## Graphs I Might Reuse
+
+List at least two graphs from previous homework assignments.
+
+1. 
+2. 
+
+## Data Limitations I Should Mention
+
+Examples might include redistricting, split counties, county-level demographics, or precinct changes over time.
+
+1. 
+2. 
+
+## What I Learned
+
+Write a few sentences about what you learned about voting patterns in Indiana District 9.
+
